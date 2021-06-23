@@ -12,7 +12,7 @@
   pronouns: 'he' | 'him',
   code: ['Javascript', 'Python', 'HTML', 'CSS'],
   tools: ['React', 'Storybook'],
-  goals: ['Visit Japan', 'Achieve a Degree', 'Work in Cybe Security'],
+  goals: ['Visit Japan', 'Achieve a Degree', 'Work in Cyber Security'],
   fact: "I can solve a Rubiks Cube in under 1 minute",
  }
  const contact = {
@@ -20,7 +20,6 @@
   github: 'JackEdwardBall',
   discord: 'ジャック#1111',
   gmail: 'jackedwardball@gmail.com',
-  
  }
 ```
 
