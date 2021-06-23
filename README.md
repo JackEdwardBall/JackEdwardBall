@@ -9,7 +9,6 @@
 
 ```javascript
  const jack = {
-  pronouns: 'he' | 'him',
   code: ['Javascript', 'Python', 'HTML', 'CSS'],
   tools: ['React', 'Storybook'],
   goals: ['Visit Japan', 'Achieve a Degree', 'Work in Cyber Security'],
