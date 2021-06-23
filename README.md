@@ -1,6 +1,6 @@
 <h2> Hi, I'm Jack! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p><em> Just a studnet teaching themself to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></em></p>
+<p><em> Just a student teaching themself to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></em></p>
 
 ![](https://img.shields.io/twitter/follow/JackEdwardBall?style=social)
 ![](https://img.shields.io/github/followers/JackEdwardBall?style=social)
