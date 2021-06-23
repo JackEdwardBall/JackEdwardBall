@@ -18,7 +18,7 @@
  const contact = {
   twitter: '@JackEdwardBall',
   github: 'JackEdwardBall',
-  discord: 'ジャック#1111',
+  discord: 'jack 愛#1111',
   gmail: 'jackedwardball@gmail.com',
  }
 ```
